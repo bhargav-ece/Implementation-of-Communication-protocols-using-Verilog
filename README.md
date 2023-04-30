@@ -7,6 +7,7 @@ Communication protocols holds a special place as it opens up ways to efficiently
 **GTKWave** : Waveform Viewer  
 **HDL** : Verilog  
 **OS** : Linux  
+**Synthesis tool** : Yosys  
 ## Communication Protocols  
 **1. UART (Universal Asynchronous Receiver Transmitter)**  
 <p align="center">  <img src="https://user-images.githubusercontent.com/101927881/235342141-35dbda5f-0c72-427f-a1fb-9b25ef170b64.png">  </p>
