@@ -1,8 +1,4 @@
-1. Uart.v contains the top module definition.  
-2. Tx_Uart.v and Rx_Uart.v contains transmitter & receiver module definitions.  
-3. Uart_Tb.v contains the Test bench module.  
-4. Waveforms.png contains the result of simulation.  
-
+ 
 # Verilog Code for UART Module
 
 
@@ -66,7 +62,7 @@ In the "stop" state, the module sets the `Tx` output signal to high and changes 
 
 Overall, this module represents the transmitter part of the UART system and implements the functionality of transmitting data asynchronously.
 
-## Rx_Uart module
+# Verilog Code for UART receiver Module
 
 The Rx_Uart module is responsible for receiving the serial data and converting it back to parallel form. It has four inputs and two outputs:
 
